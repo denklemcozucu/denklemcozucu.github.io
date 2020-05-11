@@ -19,7 +19,6 @@ function helloWorld(){
     var [sonuc, delta] = trying_part(a, b, c);
     document.getElementById("sonucb").innerHTML = sonuc;
     document.getElementById("deltab").innerHTML = delta;
-
 }
 
 //LIST FUNCTION

@@ -51,10 +51,9 @@ body {
     text-shadow: rgba(42, 46, 77, 0.815);
     position: fixed;
     height: 12%;
-    background-color: rgb(201, 114, 186);
     bottom: 0px;
-    left: 20%;
-    right: 20%;
+    left: 0%;
+    right: 40%;
     border-radius: 8px;
     margin-bottom: 0px;
     text-align: left;
