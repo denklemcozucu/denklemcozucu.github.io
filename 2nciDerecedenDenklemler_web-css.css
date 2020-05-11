@@ -1,0 +1,73 @@
+body {
+    background-color: blue;
+    text-align: center;
+}
+
+.text {
+    font-family: Helvetica, Arial, 'Times New Roman';
+    margin-left: 34%;
+    margin-right: 34%;
+    background-color: rgb(228, 158, 78);
+    border-radius: 8px;
+}
+
+.h {
+    color: rgb(21, 21, 63);
+}
+
+.results {
+    font-family: 'Times New Roman', Helvetica, Arial;
+}
+
+.inputs {
+    font-family: Helvetica, Arial, 'Times New Roman';
+    background-color: rgb(66, 33, 80);
+    color: cornsilk;
+}
+
+#idform {
+    font-family: Helvetica, Arial, 'Times New Roman';
+    padding-top: 1mm;
+    padding-bottom: 1mm;
+    margin-left: 43%;
+    margin-right: 43%;
+    background-color: rgb(100, 190, 163);
+    size: 8cm;
+    border-radius: 10px;
+}
+
+#ekbilgi {
+    font-family: Helvetica, Arial, 'Times New Roman';
+    font-size: 98%;
+}
+
+#formul {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 104%;
+}
+
+#footer {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: rgba(42, 46, 77, 0.815);
+    position: fixed;
+    height: 12%;
+    background-color: rgb(201, 114, 186);
+    bottom: 0px;
+    left: 20%;
+    right: 20%;
+    border-radius: 8px;
+    margin-bottom: 0px;
+    text-align: left;
+    line-height:14px;
+}
+#contact {
+    size: 98%;
+    color: rgb(51, 51, 134);
+}
+
+#Submit {
+    border-radius: 6px;
+    size: 104%;
+    font-size: 102%;
+    color: rgb(12, 12, 66);
+}
